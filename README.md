@@ -25,15 +25,6 @@ I'm Martin,aka Ali0ht, a Security Product Manager and a passionate Full-Stack De
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin2877&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Martin2877&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Martin2877&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
 
 ### 🌟 Let's Connect
 
@@ -45,11 +36,3 @@ I'm Martin,aka Ali0ht, a Security Product Manager and a passionate Full-Stack De
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-### 📈 GitHub Contributions
-
-<!-- GitHub Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Martin2877/Martin2877/output/github-contribution-grid-snake.svg" alt="GitHub Snake Dark" width="100%">
-</div>
-
