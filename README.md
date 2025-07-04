@@ -6,11 +6,11 @@
 
 ## 👋 Hello World!
 
-I'm Martin,aka Ali0ht, a Security Product Manager and a passionate Full-Stack Developer. I build secure digital experiences and love solving complex problems.
+I'm Martin,aka Ali0th, a Security Product Manager and a passionate Full-Stack Developer. I build secure digital experiences and love solving complex problems.
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: Golang | Python | JavaScript/TypeScript
+- 💻 Languages: Golang | Python | JavaScript/TypeScript (React)
 - 🔍 Security Research & Vulnerability Analysis
 - 🎨 Product Design & Technical Architecture
 - 🏗️ Enterprise Security Solutions
